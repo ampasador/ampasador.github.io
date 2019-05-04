@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1556963985392">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1556964323275">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3767284641" ref="index"/>
@@ -21,6 +21,7 @@
     <file name="7779456456.jpg" crc="4036157423" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="главная-favicon.ico" crc="123868076" ref="index"/>
   </folder>
-  <file name="index.html" crc="226084898" seo="true" mt="1556963978420" redirect="true"/>
+  <file name="index.html" crc="4280136243" seo="true" mt="1556964226924" redirect="true"/>
 </manifest>
