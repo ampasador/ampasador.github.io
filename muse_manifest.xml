@@ -1,7 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1556964323275">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558311101867">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3767284641" ref="index"/>
+    <file name="master_______-a.css" crc="466977768" ref="index"/>
+    <file name="index.css" crc="187454530" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ptsansnarrow.woff" crc="3909085451"/>
+    <file name="ptsansnarrow.eot" crc="3889177114"/>
+    <file name="ptsansnarrow.svg" crc="3897928463"/>
+    <file name="ptsansnarrowbold.woff" crc="3878153057"/>
+    <file name="ptsansnarrowbold.eot" crc="136993642"/>
+    <file name="ptsansnarrowbold.svg" crc="3775672935"/>
+  </folder>
+  <folder name="assets">
+    <file name="4a.jpg" crc="3774256351" seo="true" mt="1558258053000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,13 +27,120 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="123868076" ref="index"/>
     <file name="logotip.png" crc="27503166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="7779456456.jpg" crc="4036157423" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="главная-favicon.ico" crc="123868076" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="mmm9456456.jpg" crc="3926233724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-bg-free-img.png" crc="429297626" ref="index">
+      <caption webpage="index" alt="Студия Мебели «AMBASADOR» — это не просто мебельная компания. Это продуманные, функциональные и эстетически привлекательные изделия. Студия Мебели «AMBASADOR» производит шкафы-купе и гардеробные комнаты по индивидуальным заказам. На рынке Одессы находимся с 2005 года. Благодаря 15-летнему опыту изготавливаем мебель любой сложности точно по вашим размерам и потребностям. Благодаря собственному производству у нас доступные цены, так как работаем без посредников и перекупщиков."/>
+    </file>
+    <file name="pic13-free-img-1.jpg" crc="4141355063" seo="true" ref="index">
+      <caption webpage="index" alt="Студия Мебели «AMBASADOR»"/>
+    </file>
+    <file name="1a.jpg" crc="277566666" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2a.jpg" crc="453102775" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4a.jpg" crc="3774256351" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a.jpg" crc="4163630163" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6a.jpg" crc="3829289226" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7a.jpg" crc="4122909082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8a.jpg" crc="467342727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9a.jpg" crc="4236778727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renovation-free-img.png" crc="3860500727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="consultation-free-img.png" crc="391286596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-free-img.png" crc="4081108164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="real-estate-free-img.png" crc="167443897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-office-free-img.png" crc="3983535232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="planner-free-img.png" crc="4190330006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitcen03-free-img.jpg" crc="351746827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom03-free-img.jpg" crc="40787914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office02-free-img.jpg" crc="3856093619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom02-free-img.jpg" crc="4243804122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steps15a.jpg" crc="4216846905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steps24a.jpg" crc="388936722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steps34a.jpg" crc="19076695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steps44a.jpg" crc="61342734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6dc8a1fbf2826eaa1cfc38643071c30c.jpg" crc="3837005467" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4d1e371335582d1c06c7bb58a2e1fa3f.jpg" crc="183024177" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8566a5cf440ada8efe24b73116c3049c.jpg" crc="3985085651" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17f83687edf4fef92b3c1992e95fdbd0.jpg" crc="4255408309" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f51f4ce1a820aa7871957d618fbed8e8.jpg" crc="4257583162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8c6b5a3498b2379775cc71781138dda0.jpg" crc="4246736482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="491d09bfd8f20926c01bade8b74756c1.jpg" crc="153825139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b959391cd4c780e758c8b2fb325893e6.jpg" crc="413200138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e9eea03e26cacf1e2489cb55fde0388c.jpg" crc="4202041639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="053bf5cb715cd218eff8aed9e44d6d56.jpg" crc="3930101446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero02-free-img.jpg" crc="4135893423" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4280136243" seo="true" mt="1556964226924" redirect="true"/>
+  <file name="index.html" crc="4108522733" seo="true" mt="1558310796990" redirect="true"/>
 </manifest>

@@ -2,11 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ampasador.github.io/index.html</loc>
-    <lastmod>2019-05-04</lastmod>
+    <lastmod>2019-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://ampasador.github.io/images/logotip.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/pic13-free-img-1.jpg</image:loc>
+      <image:caption>Студия Мебели «AMBASADOR»</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/renovation-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/consultation-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/interior-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/real-estate-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/small-office-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/planner-free-img.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/kitcen03-free-img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom03-free-img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/office02-free-img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom02-free-img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/steps15a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/steps24a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/steps34a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/steps44a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/f51f4ce1a820aa7871957d618fbed8e8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/8c6b5a3498b2379775cc71781138dda0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/491d09bfd8f20926c01bade8b74756c1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/b959391cd4c780e758c8b2fb325893e6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/e9eea03e26cacf1e2489cb55fde0388c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/053bf5cb715cd218eff8aed9e44d6d56.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ampasador.github.io/assets/4a.jpg</loc>
+    <lastmod>2019-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
