@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558311101867">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558311581274">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="466977768" ref="index"/>
-    <file name="index.css" crc="187454530" ref="index"/>
+    <file name="index.css" crc="4175564043" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ptsansnarrow.woff" crc="3909085451"/>
@@ -141,6 +141,10 @@
     <file name="hero02-free-img.jpg" crc="4135893423" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="6dc8a1fbf2826eaa1cfc38643071c30c-u1766-r-fr.png" crc="210300237" ref="index"/>
+    <file name="4d1e371335582d1c06c7bb58a2e1fa3f-u1783-r-fr.png" crc="3969167809" ref="index"/>
+    <file name="8566a5cf440ada8efe24b73116c3049c-u1789-r-fr.png" crc="3816900891" ref="index"/>
+    <file name="17f83687edf4fef92b3c1992e95fdbd0-u1777-r-fr.png" crc="3950235719" ref="index"/>
   </folder>
-  <file name="index.html" crc="4108522733" seo="true" mt="1558310796990" redirect="true"/>
+  <file name="index.html" crc="371068014" seo="true" mt="1558311558125" redirect="true"/>
 </manifest>
