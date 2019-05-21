@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558371237596">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558455756653">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="75498324" ref="index"/>
-    <file name="index.css" crc="3885342548" ref="index"/>
+    <file name="master_______-a.css" crc="4002730114" ref="index"/>
+    <file name="index.css" crc="105481230" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="4033450804" ref="index"/>
-    <file name="nomq_index.css" crc="223531369" ref="index"/>
+    <file name="nomq_index.css" crc="89890445" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ptsansnarrow.woff" crc="3909085451"/>
@@ -195,6 +195,10 @@
     <file name="053bf5cb715cd218eff8aed9e44d6d56-crop-u2021.jpg" crc="3916416725" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="28.png" crc="41239198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="178318255" seo="true" mt="1558370891295" redirect="true"/>
+  <file name="index.html" crc="3773683456" seo="true" mt="1558455702615" redirect="true"/>
 </manifest>

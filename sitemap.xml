@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ampasador.github.io/index.html</loc>
-    <lastmod>2019-05-20</lastmod>
+    <lastmod>2019-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,6 +101,9 @@
     </image:image>
     <image:image>
       <image:loc>https://ampasador.github.io/images/053bf5cb715cd218eff8aed9e44d6d56-crop-u2021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/28.png</image:loc>
     </image:image>
   </url>
   <url>
