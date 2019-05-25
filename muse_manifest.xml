@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558649454875">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558776100054">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="447070269" ref="index"/>
-    <file name="index.css" crc="12898519" ref="index"/>
+    <file name="master_______-a.css" crc="317993755" ref="index"/>
+    <file name="index.css" crc="4072632059" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="4033450804" ref="index"/>
-    <file name="nomq_index.css" crc="88633713" ref="index"/>
+    <file name="nomq_index.css" crc="69813877" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -14,6 +14,9 @@
     <file name="ptsansnarrowbold.woff" crc="3878153057"/>
     <file name="ptsansnarrowbold.eot" crc="136993642"/>
     <file name="ptsansnarrowbold.svg" crc="3775672935"/>
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
   </folder>
   <folder name="assets">
     <file name="5a.jpg" crc="4163630163" seo="true" mt="1558258053000"/>
@@ -201,5 +204,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="508943647" seo="true" mt="1558648107530" redirect="true"/>
+  <file name="index.html" crc="3823776575" seo="true" mt="1558776067096" redirect="true"/>
 </manifest>
