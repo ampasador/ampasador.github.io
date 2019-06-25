@@ -1,11 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1558776100054">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561442648495">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="317993755" ref="index"/>
-    <file name="index.css" crc="4072632059" ref="index"/>
+    <file name="master_______-a.css" crc="4179341882" ref="index"/>
+    <file name="index.css" crc="3793220163" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="4033450804" ref="index"/>
-    <file name="nomq_index.css" crc="69813877" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="nomq_index.css" crc="4279845415" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ptsansnarrow.woff" crc="3909085451"/>
@@ -17,6 +16,12 @@
     <file name="fontawesome-webfont.woff" crc="462672289"/>
     <file name="fontawesome-webfont.eot" crc="415170694"/>
     <file name="fontawesome-webfont.svg" crc="3771442179"/>
+    <file name="ptsans-narrowbold.woff" crc="4208788712"/>
+    <file name="pt_sans-narrow-web-bold.eot" crc="389068498"/>
+    <file name="ptsans-narrowbold.svg" crc="304270085"/>
+    <file name="fa-solid-900.woff" crc="401146755"/>
+    <file name="fa-solid-900.eot" crc="251411776"/>
+    <file name="fa-solid-900.svg" crc="208434630"/>
   </folder>
   <folder name="assets">
     <file name="5a.jpg" crc="4163630163" seo="true" mt="1558258053000"/>
@@ -200,9 +205,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="28.png" crc="41239198" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Вверх"/>
+      <caption webpage="index" alt="Вверх"/>
     </file>
+    <file name="1a-buttonu167-r-fr.png" crc="257075136" ref="index"/>
+    <file name="2a-buttonu190-r-fr.png" crc="161487282" ref="index"/>
+    <file name="4a-buttonu893-r-fr.png" crc="110285500" ref="index"/>
+    <file name="5a-buttonu902-r-fr.png" crc="310729077" ref="index"/>
+    <file name="6a-buttonu911-r-fr.png" crc="4025265954" ref="index"/>
+    <file name="7a-buttonu947-r-fr.png" crc="218095606" ref="index"/>
+    <file name="8a-buttonu956-r-fr.png" crc="3980185969" ref="index"/>
+    <file name="9a-buttonu965-r-fr.png" crc="517635653" ref="index"/>
   </folder>
-  <file name="index.html" crc="3823776575" seo="true" mt="1558776067096" redirect="true"/>
+  <file name="index.html" crc="366868076" seo="true" mt="1561414421748" redirect="true"/>
 </manifest>
