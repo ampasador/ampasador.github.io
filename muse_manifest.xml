@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561443674357">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561444328278">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="4179341882" ref="index"/>
-    <file name="index.css" crc="307185488" ref="index"/>
+    <file name="index.css" crc="109055633" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="4033450804" ref="index"/>
-    <file name="nomq_index.css" crc="4159608426" ref="index"/>
+    <file name="nomq_index.css" crc="4279845415" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ptsansnarrow.woff" crc="3909085451"/>
@@ -220,5 +220,5 @@
     <file name="8a-buttonu956-r-fr.png" crc="3980185969" ref="index"/>
     <file name="9a-buttonu965-r-fr.png" crc="517635653" ref="index"/>
   </folder>
-  <file name="index.html" crc="365177472" seo="true" mt="1561443631985" redirect="true"/>
+  <file name="index.html" crc="4161939117" seo="true" mt="1561444139416" redirect="true"/>
 </manifest>
