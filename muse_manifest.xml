@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561445590176">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561445748516">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="364573052" ref="index:dva"/>
@@ -227,6 +227,6 @@
     <file name="8a-buttonu956-r-fr.png" crc="3980185969" ref="index"/>
     <file name="9a-buttonu965-r-fr.png" crc="517635653" ref="index"/>
   </folder>
-  <file name="index.html" crc="4185735031" seo="true" mt="1561445500052" redirect="true"/>
-  <file name="dva.html" crc="3960956120" seo="true" mt="1561445521340" redirect="true"/>
+  <file name="index.html" crc="157013744" seo="true" mt="1561445710651" redirect="true"/>
+  <file name="dva.html" crc="19362004" seo="true" mt="1561445710651" redirect="true"/>
 </manifest>
