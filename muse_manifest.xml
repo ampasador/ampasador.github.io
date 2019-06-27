@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561634004441">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561634253546">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="3790963049" ref="index:dva"/>
-    <file name="index.css" crc="4130363023" ref="index"/>
+    <file name="index.css" crc="4257547422" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="3843227104" ref="index:dva"/>
-    <file name="nomq_index.css" crc="4223563342" ref="index"/>
+    <file name="nomq_index.css" crc="3858113721" ref="index"/>
     <file name="dva.css" crc="4117824593" ref="dva"/>
     <file name="nomq_dva.css" crc="4236327014" ref="dva"/>
   </folder>
@@ -262,6 +262,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3932769758" seo="true" mt="1561633738172" redirect="true"/>
+  <file name="index.html" crc="4234405894" seo="true" mt="1561634184274" redirect="true"/>
   <file name="dva.html" crc="108016037" seo="true" mt="1561633848781" redirect="true"/>
 </manifest>
