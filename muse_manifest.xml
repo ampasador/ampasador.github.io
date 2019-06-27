@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561445748516">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://ampasador.github.io" resolutions="1x" timestamp="1561634004441">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="364573052" ref="index:dva"/>
-    <file name="index.css" crc="4229732028" ref="index"/>
-    <file name="nomq_preview_master_______-a.css" crc="33248964" ref="index:dva"/>
-    <file name="nomq_index.css" crc="3943710221" ref="index"/>
-    <file name="dva.css" crc="476341191" ref="dva"/>
-    <file name="nomq_dva.css" crc="3842513283" ref="dva"/>
+    <file name="master_______-a.css" crc="3790963049" ref="index:dva"/>
+    <file name="index.css" crc="4130363023" ref="index"/>
+    <file name="nomq_preview_master_______-a.css" crc="3843227104" ref="index:dva"/>
+    <file name="nomq_index.css" crc="4223563342" ref="index"/>
+    <file name="dva.css" crc="4117824593" ref="dva"/>
+    <file name="nomq_dva.css" crc="4236327014" ref="dva"/>
   </folder>
   <folder name="fonts">
     <file name="ptsansnarrow.woff" crc="3909085451"/>
@@ -29,7 +29,7 @@
     <file name="ptsans-narrow.svg" crc="168936027"/>
   </folder>
   <folder name="assets">
-    <file name="5a.jpg" crc="4163630163" seo="true" mt="1558258053000"/>
+    <file name="5a_00.jpg" crc="4163630163" seo="true" mt="1558258053000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dva"/>
@@ -42,6 +42,10 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:dva"/>
     <file name="require.js" crc="7928878" ref="index:dva"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:dva"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="123868076" ref="index"/>
@@ -115,16 +119,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kitcen03-free-img.jpg" crc="351746827" seo="true" ref="index">
+    <file name="kitcen03-free-img.jpg" crc="4179862193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bedroom03-free-img.jpg" crc="40787914" seo="true" ref="index">
+    <file name="bedroom03-free-img.jpg" crc="3894356500" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="office02-free-img.jpg" crc="3856093619" seo="true" ref="index">
+    <file name="office02-free-img.jpg" crc="4130752688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bedroom02-free-img.jpg" crc="4243804122" seo="true" ref="index">
+    <file name="bedroom02-free-img.jpg" crc="342436144" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="steps15a.jpg" crc="4216846905" seo="true" ref="index">
@@ -182,18 +186,6 @@
     <file name="8566a5cf440ada8efe24b73116c3049c-u1789-r-fr.png" crc="3816900891" ref="index"/>
     <file name="17f83687edf4fef92b3c1992e95fdbd0-u1777-r-fr.png" crc="3950235719" ref="index"/>
     <file name="mmm9456456-u94-fr.jpg" crc="180948925" ref="index"/>
-    <file name="kitcen03-free-img172x105.jpg" crc="329541015" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bedroom03-free-img172x105.jpg" crc="3969522722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="office02-free-img172x105.jpg" crc="4099303169" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bedroom02-free-img172x105.jpg" crc="4040994384" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="f51f4ce1a820aa7871957d618fbed8e8-crop-u1971.jpg" crc="185429016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -226,7 +218,50 @@
     <file name="7a-buttonu947-r-fr.png" crc="218095606" ref="index"/>
     <file name="8a-buttonu956-r-fr.png" crc="3980185969" ref="index"/>
     <file name="9a-buttonu965-r-fr.png" crc="517635653" ref="index"/>
+    <file name="bedroom02-free-img455x278.jpg" crc="192640158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom03-free-img455x278.jpg" crc="92174281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitcen03-free-img455x278.jpg" crc="4053473427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office02-free-img455x278.jpg" crc="4067760231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strelkalevo.png" crc="311493307" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strelkapravo.png" crc="484818693" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="bedroom02-free-img176x108.jpg" crc="132491602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom03-free-img176x108.jpg" crc="299351304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitcen03-free-img176x108.jpg" crc="62926866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office02-free-img176x108.jpg" crc="433879852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom02-free-img657x402.jpg" crc="319952661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bedroom03-free-img657x402.jpg" crc="3842264830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitcen03-free-img657x402.jpg" crc="3803028570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office02-free-img657x402.jpg" crc="440398953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="157013744" seo="true" mt="1561445710651" redirect="true"/>
-  <file name="dva.html" crc="19362004" seo="true" mt="1561445710651" redirect="true"/>
+  <file name="index.html" crc="3932769758" seo="true" mt="1561633738172" redirect="true"/>
+  <file name="dva.html" crc="108016037" seo="true" mt="1561633848781" redirect="true"/>
 </manifest>

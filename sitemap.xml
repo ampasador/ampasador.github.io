@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ampasador.github.io/index.html</loc>
-    <lastmod>2019-06-25</lastmod>
+    <lastmod>2019-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,18 +73,6 @@
       <image:loc>https://ampasador.github.io/images/053bf5cb715cd218eff8aed9e44d6d56.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ampasador.github.io/images/kitcen03-free-img172x105.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ampasador.github.io/images/bedroom03-free-img172x105.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ampasador.github.io/images/office02-free-img172x105.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ampasador.github.io/images/bedroom02-free-img172x105.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://ampasador.github.io/images/f51f4ce1a820aa7871957d618fbed8e8-crop-u1971.jpg</image:loc>
     </image:image>
     <image:image>
@@ -106,10 +94,46 @@
       <image:loc>https://ampasador.github.io/images/28.png</image:loc>
       <image:caption>Вверх</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom02-free-img455x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom03-free-img455x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/kitcen03-free-img455x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/office02-free-img455x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom02-free-img176x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom03-free-img176x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/kitcen03-free-img176x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/office02-free-img176x108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom02-free-img657x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/bedroom03-free-img657x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/kitcen03-free-img657x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ampasador.github.io/images/office02-free-img657x402.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ampasador.github.io/dva.html</loc>
-    <lastmod>2019-06-25</lastmod>
+    <lastmod>2019-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,7 +145,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://ampasador.github.io/assets/5a.jpg</loc>
+    <loc>https://ampasador.github.io/assets/5a_00.jpg</loc>
     <lastmod>2019-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
